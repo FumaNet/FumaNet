@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Student @Tilburg University
+Student @University of Oxford
 <!--
 **FumaNet/FumaNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
